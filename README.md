@@ -15,7 +15,7 @@ Enter your choice:
 
 
 ## Note Organizer API
-### Instead of reading input from the command line, it receives HTTP requests. Similarly, instead of printing output to the console, it sends HTTP responses
+### Using Express.js, instead of reading input from the command line, it receives HTTP requests. Similarly, instead of printing output to the console, it sends HTTP responses
 ### [Server Address](http://localhost:3000/)
 
 
